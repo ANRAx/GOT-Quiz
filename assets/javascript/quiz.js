@@ -2,6 +2,7 @@ var card = $("#quiz-area");
 var countStartNumber = 30;
 
 // Question Set 
+// TODO: add the questions and answers
 
 var questions = [{
 
