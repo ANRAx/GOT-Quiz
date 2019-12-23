@@ -6,50 +6,50 @@ var countStartNumber = 30;
 
 var questions = [{
 
-    questions: "",
-    answers: [""],
-    correctAnswer: "",
-    image: ""
+    questions: "In which battle did Jon Snow and Sansa Stark retake Winterfell from Lord Ramsay Bolton?",
+    answers: ["The Battle of the Bastards", "The Battle of Winterfell", "The Battle of Blackwater", "The Battle of Whiterun"],
+    correctAnswer: "The Battle of the Bastards",
+    image: "assets/images/bob.gif"
 }, {
-    questions = "",
-    answers: [""],
-    correctAnswer: "",
-    image: "",
+    questions = "Who admitted responsibility for Joffrey's death after being forced to take poison?",
+    answers: ["Tyrion Lannister", "Ned Stark", "Olenna Tyrell", "Hodor"],
+    correctAnswer: "Olenna Tyrell",
+    image: "assets/images/olenna.gif",
 }, {
-    questions = "",
-    answers: [""],
-    correctAnswer: "",
-    image: "",
+    questions = "Can you name the squire in service to Brienne of Tarth?",
+    answers: ["Ygritte", "Aryna Stark", "Petyr Balish", "Podrick Payne"],
+    correctAnswer: "Podrick Payne",
+    image: "assets/images/pod.gif",
 }, {
-    questions = "",
-    answers: [""],
-    correctAnswer: "",
-    image: "",
+    questions = "Who is the commander of the warrior-eunuchs of Astapor, known as the Unsullied?",
+    answers: ["Bronn", "Oberyn Martell", "Grey Worm", "Tom Bombadil"],
+    correctAnswer: "Grey Worm",
+    image: "assets/images/worm.gif",
 }, {
-    questions = "",
-    answers: [""],
-    correctAnswer: "",
-    image: "",
+    questions = "What is the name of the form of obsidian that is capable of killing White Walkers?",
+    answers: ["Dragonglass", "Dragonfire", "Meteor Stone", "Kiss of Death"],
+    correctAnswer: "Dragonglass",
+    image: "assets/images/glass.gif",
 }, {
-    questions = "",
-    answers: [""],
-    correctAnswer: "",
-    image: "",
+    questions = "By what method were Randyll and Dickon, the father and brother of Samwell Tarly, killed after their defeat in battle?",
+    answers: ["Spitfire", "Hanging", "Suffocation", "Dragonfire"],
+    correctAnswer: "Dragonfire",
+    image: "assets/images/fire.gif",
 }, {
-    questions = "",
-    answers: [""],
-    correctAnswer: "",
-    image: "",
+    questions = "What's the name of the small sword wielded by Arya Stark?",
+    answers: ["Thimble", "Icepick", "Needle", "Scissor"],
+    correctAnswer: "Needle",
+    image: "assets/images/needle.gif",
 }, {
-    questions = "",
-    answers: [""],
-    correctAnswer: "",
-    image: "",
+    questions = "Skroth is the language spoken by which race of creatures?",
+    answers: ["Dothraki", "White Walkers", "First Men", "Elves"],
+    correctAnswer: "White Walkers",
+    image: "assets/images/whitewalker.gif",
 }, {
-    questions = "",
-    answers: [""],
-    correctAnswer: "",
-    image: "",
+    questions = "Who is responsible for Bran's paralysis?",
+    answers: ["Jamie Lannister", "Jeoffry Lannister", "Littlefinger", "The Waif"],
+    correctAnswer: "Jamie Lannister",
+    image: "assets/images/jamie.gif",
 }];
 
 var timer;
