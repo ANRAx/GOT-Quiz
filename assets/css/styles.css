@@ -1,0 +1,68 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  text-align: center;
+  background-image: url("../images/got.jpg");
+}
+
+#wrapper {
+  width: 960px;
+  height: 95%;
+  box-sizing: border-box;
+  margin: 2.5% auto;
+  background-image: url("../images/grunge.jpg");
+}
+
+#sub-wrapper {
+  position: relative;
+  top: 15%;
+}
+
+button {
+  display: block;
+  width: 50%;
+  height: 20%;
+  margin: 0 auto;
+  font-size: 42px;
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+}
+
+img {
+  height: 200px;
+}
+
+h1 {
+  padding-top: 2.5%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 6.5em;
+  font-weight: bold;
+  color: black;
+}
+
+h2 {
+  margin-bottom: 25px;
+  font-size: 35px;
+  color: black;
+}
+
+h3 {
+  margin-bottom: 10px;
+  font-size: 25px;
+  color: black;
+}
+
+#start {
+  margin-top: 10%;
+  background: pink;
+  border: 2px solid blue;
+}
+
+button:hover {
+  background: pink;
+  border: 2px solid blue;
+}
